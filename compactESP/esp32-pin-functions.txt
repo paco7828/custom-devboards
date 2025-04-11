@@ -14,8 +14,8 @@ IO22 = SCL
 
 IO11 = Serial1 RTS + CS
 IO6 = Serial1 CTS + CLK
-IO8 = Serial2 CTS + MOSI
 IO7 = Serial2 RTS + MISO
+IO8 = Serial2 CTS + MOSI
 
 IO15 = Analog + Touch + H CS
 IO14 = Analog + Touch + H CLK
