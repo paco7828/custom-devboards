@@ -1,0 +1,3 @@
+compactMCU is a community-made, minimalistic microcontroller board based on the ATmega328P-PU. Inspired by the Arduino Uno, it offers the same core functionality but in a much smaller, cleaner form factor, perfect for embedded projects and learning more about bare-metal AVR microcontrollers.
+
+Designed with simplicity and flexibility in mind, compactMCU includes only the essential components needed to run the ATmega328P, along with a convenient onboard reset button and two-way programming support. Whether you prefer Micro USB or USB-C, both ports are available for flashing your code, making it easy to integrate into modern setups.
